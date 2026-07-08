@@ -1,0 +1,16 @@
+service: index_ticker
+schema_version: "1.0"
+ttl_hours: 6
+
+# Major indices for the site marquee. Yahoo Finance symbols (free, no key).
+indices:
+  - { symbol: "^GSPC",  label: "S&P 500" }
+  - { symbol: "^IXIC",  label: "Nasdaq" }
+  - { symbol: "^DJI",   label: "Dow" }
+  - { symbol: "^RUT",   label: "Russell 2000" }
+  - { symbol: "^VIX",   label: "VIX" }
+  - { symbol: "^FTSE",  label: "FTSE 100" }
+  - { symbol: "^GDAXI", label: "DAX" }
+  - { symbol: "^N225",  label: "Nikkei 225" }
+
+feed_url: "https://HunHospak.github.io/index_ticker/index_ticker.json"

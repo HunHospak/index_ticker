@@ -1,0 +1,29 @@
+name: publish-index-ticker
+
+on:
+  schedule:
+    - cron: "*/15 13-21 * * 1-5"   # ~every 15 min during US market hours (UTC), weekdays
+    - cron: "30 22 * * 1-5"        # one post-close refresh
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Build feed
+        run: python src/build_feed.py
+      - name: Publish out/ to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          # Served at: https://<user>.github.io/index_ticker/index_ticker.json
