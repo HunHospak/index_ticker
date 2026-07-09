@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-07-09T20:09:03+00:00",
+  "generated_at": "2026-07-09T21:48:01+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -27,14 +27,14 @@
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2991.34,
-        "change_pct": 1.18
+        "price": 2992.54,
+        "change_pct": 1.22
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 15.82,
-        "change_pct": -6.39
+        "price": 15.84,
+        "change_pct": -6.27
       },
       {
         "symbol": "^FTSE",
