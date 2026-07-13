@@ -1,8 +1,8 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-07-13T21:06:11+00:00",
-  "status": "partial",
+  "generated_at": "2026-07-13T22:12:51+00:00",
+  "status": "active",
   "ttl_hours": 6,
   "data": {
     "indices": [
@@ -25,6 +25,12 @@
         "change_pct": -0.26
       },
       {
+        "symbol": "^RUT",
+        "label": "Russell 2000",
+        "price": 2953.17,
+        "change_pct": -0.83
+      },
+      {
         "symbol": "^VIX",
         "label": "VIX",
         "price": 17.16,
@@ -39,8 +45,8 @@
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25114.25,
-        "change_pct": 0.19
+        "price": 25067.09,
+        "change_pct": -0.2
       },
       {
         "symbol": "^N225",
@@ -49,9 +55,8 @@
         "change_pct": 1.2
       }
     ],
-    "count": 7,
+    "count": 8,
     "as_of": "2026-07-13",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
-  },
-  "notes": "Only 7/8 indices resolved."
+  }
 }
