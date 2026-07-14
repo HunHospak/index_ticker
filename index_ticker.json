@@ -1,8 +1,8 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-07-14T22:41:18+00:00",
-  "status": "active",
+  "generated_at": "2026-07-14T23:18:57+00:00",
+  "status": "partial",
   "ttl_hours": 6,
   "data": {
     "indices": [
@@ -31,16 +31,10 @@
         "change_pct": 0.39
       },
       {
-        "symbol": "^VIX",
-        "label": "VIX",
-        "price": 16.5,
-        "change_pct": -3.85
-      },
-      {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10529.39,
-        "change_pct": 0.3
+        "price": 10498.3,
+        "change_pct": 0.01
       },
       {
         "symbol": "^GDAXI",
@@ -55,8 +49,9 @@
         "change_pct": -1.92
       }
     ],
-    "count": 8,
+    "count": 7,
     "as_of": "2026-07-14",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
-  }
+  },
+  "notes": "Only 7/8 indices resolved."
 }
