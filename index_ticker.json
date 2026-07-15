@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-07-15T22:42:51+00:00",
+  "generated_at": "2026-07-15T23:25:59+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -39,8 +39,8 @@
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10515.92,
-        "change_pct": -0.13
+        "price": 10529.4,
+        "change_pct": 0.3
       },
       {
         "symbol": "^GDAXI",
