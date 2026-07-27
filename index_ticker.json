@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-07-27T21:18:47+00:00",
+  "generated_at": "2026-07-27T22:35:25+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -28,7 +28,7 @@
         "symbol": "^RUT",
         "label": "Russell 2000",
         "price": 2948.03,
-        "change_pct": 0.62
+        "change_pct": 0.27
       },
       {
         "symbol": "^VIX",
@@ -45,8 +45,8 @@
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25361.03,
-        "change_pct": 1.04
+        "price": 25099.0,
+        "change_pct": 1.36
       },
       {
         "symbol": "^N225",
