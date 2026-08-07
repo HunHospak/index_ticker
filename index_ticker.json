@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-08-07T21:15:39+00:00",
+  "generated_at": "2026-08-07T22:07:42+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -45,8 +45,8 @@
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 26319.45,
-        "change_pct": 0.69
+        "price": 26140.13,
+        "change_pct": 0.05
       },
       {
         "symbol": "^N225",
