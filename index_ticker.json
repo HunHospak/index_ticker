@@ -1,34 +1,40 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-08-07T18:26:04+00:00",
-  "status": "partial",
+  "generated_at": "2026-08-07T19:33:17+00:00",
+  "status": "active",
   "ttl_hours": 6,
   "data": {
     "indices": [
       {
+        "symbol": "^GSPC",
+        "label": "S&P 500",
+        "price": 7752.11,
+        "change_pct": 0.55
+      },
+      {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 26579.3,
-        "change_pct": 0.88
+        "price": 26651.05,
+        "change_pct": 1.15
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 53929.65,
-        "change_pct": 0.08
+        "price": 54066.0,
+        "change_pct": 0.34
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 3031.45,
-        "change_pct": 1.0
+        "price": 3036.0,
+        "change_pct": 1.15
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 14.9,
-        "change_pct": -1.65
+        "price": 14.91,
+        "change_pct": -1.58
       },
       {
         "symbol": "^FTSE",
@@ -49,9 +55,8 @@
         "change_pct": -0.93
       }
     ],
-    "count": 7,
+    "count": 8,
     "as_of": "2026-08-07",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
-  },
-  "notes": "Only 7/8 indices resolved."
+  }
 }
