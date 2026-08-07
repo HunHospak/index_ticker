@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-08-06T15:21:09+00:00",
+  "generated_at": "2026-08-07T00:33:34+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,54 +9,54 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 7714.9,
-        "change_pct": -0.11
+        "price": 7709.96,
+        "change_pct": -0.18
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 26387.28,
-        "change_pct": 0.09
+        "price": 26348.35,
+        "change_pct": -0.06
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 54062.96,
-        "change_pct": -0.53
+        "price": 53885.1,
+        "change_pct": -0.85
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 3024.96,
-        "change_pct": 0.19
+        "price": 3001.55,
+        "change_pct": -0.58
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 15.36,
-        "change_pct": -2.85
+        "price": 15.15,
+        "change_pct": -4.17
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10884.16,
-        "change_pct": -0.04
+        "price": 10888.3,
+        "change_pct": 0.08
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 26210.47,
-        "change_pct": 0.32
+        "price": 26126.3,
+        "change_pct": -0.29
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 66300.44,
-        "change_pct": 3.66
+        "price": 65189.64,
+        "change_pct": -1.68
       }
     ],
     "count": 8,
-    "as_of": "2026-08-06",
+    "as_of": "2026-08-07",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
