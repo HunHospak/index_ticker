@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-08-11T20:55:49+00:00",
+  "generated_at": "2026-08-11T21:56:53+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
