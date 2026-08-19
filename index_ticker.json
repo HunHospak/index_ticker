@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-08-19T22:02:02+00:00",
+  "generated_at": "2026-08-19T22:46:37+00:00",
   "status": "partial",
   "ttl_hours": 6,
   "data": {
@@ -17,6 +17,12 @@
         "label": "Nasdaq",
         "price": 26331.09,
         "change_pct": 0.16
+      },
+      {
+        "symbol": "^DJI",
+        "label": "Dow",
+        "price": 53463.05,
+        "change_pct": 0.22
       },
       {
         "symbol": "^RUT",
@@ -41,12 +47,6 @@
         "label": "DAX",
         "price": 26128.36,
         "change_pct": -0.8
-      },
-      {
-        "symbol": "^N225",
-        "label": "Nikkei 225",
-        "price": 67460.73,
-        "change_pct": -2.54
       }
     ],
     "count": 7,
