@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-09-05T00:12:33+00:00",
+  "generated_at": "2026-09-07T18:12:28+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -33,30 +33,30 @@
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 14.53,
-        "change_pct": 1.47
+        "price": 15.3,
+        "change_pct": 5.3
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10831.5,
-        "change_pct": 0.7
+        "price": 10822.13,
+        "change_pct": -0.08
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 26003.32,
-        "change_pct": 0.63
+        "price": 26006.53,
+        "change_pct": -0.15
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 64214.48,
-        "change_pct": -0.17
+        "price": 65020.94,
+        "change_pct": 1.26
       }
     ],
     "count": 8,
-    "as_of": "2026-09-05",
+    "as_of": "2026-09-07",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
