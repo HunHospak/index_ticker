@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-09-09T22:26:05+00:00",
+  "generated_at": "2026-09-10T00:20:38+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -39,8 +39,8 @@
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10670.06,
-        "change_pct": -1.31
+        "price": 10811.7,
+        "change_pct": -0.1
       },
       {
         "symbol": "^GDAXI",
@@ -51,12 +51,12 @@
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 65269.33,
-        "change_pct": -1.7
+        "price": 64804.52,
+        "change_pct": -0.71
       }
     ],
     "count": 8,
-    "as_of": "2026-09-09",
+    "as_of": "2026-09-10",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
