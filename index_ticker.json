@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-09-16T20:26:32+00:00",
+  "generated_at": "2026-09-16T23:12:23+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -33,20 +33,20 @@
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 17.72,
-        "change_pct": 3.02
+        "price": 17.71,
+        "change_pct": 2.97
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10688.47,
-        "change_pct": 0.28
+        "price": 10658.1,
+        "change_pct": -0.37
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25537.75,
-        "change_pct": 0.53
+        "price": 25402.28,
+        "change_pct": -0.15
       },
       {
         "symbol": "^N225",
