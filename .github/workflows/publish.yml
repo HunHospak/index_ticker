@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "*/15 13-21 * * 1-5"   # ~every 15 min during US market hours (UTC), weekdays
     - cron: "30 22 * * 1-5"        # one post-close refresh
+    - cron: "30 1,5,9 * * 1-5"     # keep snapshots reachable outside US hours (quotes are not live)
+    - cron: "30 */4 * * 0,6"       # weekend snapshots; preserve actual quote observation dates
   workflow_dispatch: {}
 
 permissions:
