@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-02T01:43:39+00:00",
+  "generated_at": "2026-10-02T10:07:21+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -27,32 +27,32 @@
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2806.62,
+        "price": 2806.63,
         "change_pct": 0.35
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 16.39,
-        "change_pct": 0.31
+        "price": 15.95,
+        "change_pct": -2.68
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10428.3,
-        "change_pct": -1.68
+        "price": 10456.36,
+        "change_pct": 0.27
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 24939.35,
-        "change_pct": -1.03
+        "price": 25170.37,
+        "change_pct": 0.93
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 68293.83,
-        "change_pct": -0.96
+        "price": 68309.46,
+        "change_pct": -0.94
       }
     ],
     "count": 8,
