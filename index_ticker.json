@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-07T01:41:05+00:00",
+  "generated_at": "2026-10-07T07:20:40+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -16,7 +16,7 @@
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 27599.89,
+        "price": 27599.79,
         "change_pct": 0.45,
         "price_observation_date": "2026-10-06"
       },
@@ -44,22 +44,22 @@
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10541.7,
-        "change_pct": 0.42,
-        "price_observation_date": "2026-10-06"
+        "price": 10510.34,
+        "change_pct": -0.3,
+        "price_observation_date": "2026-10-07"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25449.19,
-        "change_pct": 0.77,
-        "price_observation_date": "2026-10-06"
+        "price": 25262.38,
+        "change_pct": -0.73,
+        "price_observation_date": "2026-10-07"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 70409.5,
-        "change_pct": -0.39,
+        "price": 70035.71,
+        "change_pct": -0.92,
         "price_observation_date": "2026-10-07"
       }
     ],
