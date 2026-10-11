@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T23:43:16+00:00",
+  "generated_at": "2026-10-11T06:11:19+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -64,7 +64,7 @@
       }
     ],
     "count": 8,
-    "as_of": "2026-10-10",
+    "as_of": "2026-10-11",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
