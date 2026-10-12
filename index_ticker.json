@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T07:30:30+00:00",
+  "generated_at": "2026-10-12T19:10:20+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,50 +9,50 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 7811.54,
-        "change_pct": 0.59,
-        "price_observation_date": "2026-10-09"
+        "price": 7798.72,
+        "change_pct": -0.16,
+        "price_observation_date": "2026-10-12"
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 27366.17,
-        "change_pct": 0.64,
-        "price_observation_date": "2026-10-09"
+        "price": 27223.15,
+        "change_pct": -0.52,
+        "price_observation_date": "2026-10-12"
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 51654.95,
-        "change_pct": 0.83,
-        "price_observation_date": "2026-10-09"
+        "price": 51825.97,
+        "change_pct": 0.33,
+        "price_observation_date": "2026-10-12"
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2806.98,
-        "change_pct": 0.46,
-        "price_observation_date": "2026-10-09"
+        "price": 2796.52,
+        "change_pct": -0.37,
+        "price_observation_date": "2026-10-12"
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 15.39,
-        "change_pct": 3.71,
+        "price": 15.31,
+        "change_pct": 3.17,
         "price_observation_date": "2026-10-12"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10612.18,
-        "change_pct": 0.57,
+        "price": 10656.28,
+        "change_pct": 0.99,
         "price_observation_date": "2026-10-12"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25222.91,
-        "change_pct": 0.54,
+        "price": 25277.68,
+        "change_pct": 0.76,
         "price_observation_date": "2026-10-12"
       },
       {
