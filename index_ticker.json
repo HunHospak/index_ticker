@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T23:41:22+00:00",
+  "generated_at": "2026-10-14T01:17:25+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -23,9 +23,9 @@
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 51850.55,
-        "change_pct": 0.38,
-        "price_observation_date": "2026-10-12"
+        "price": 51670.1,
+        "change_pct": -0.35,
+        "price_observation_date": "2026-10-13"
       },
       {
         "symbol": "^RUT",
@@ -58,13 +58,13 @@
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 69030.92,
-        "change_pct": -0.02,
-        "price_observation_date": "2026-10-09"
+        "price": 68055.51,
+        "change_pct": -1.41,
+        "price_observation_date": "2026-10-14"
       }
     ],
     "count": 8,
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-14",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
