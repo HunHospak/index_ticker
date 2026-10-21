@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T14:33:21+00:00",
+  "generated_at": "2026-10-21T17:58:00+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,58 +9,58 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 7725.74,
-        "change_pct": 0.17,
+        "price": 7766.59,
+        "change_pct": 0.7,
         "price_observation_date": "2026-10-21"
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 26583.64,
-        "change_pct": 0.6,
+        "price": 26747.63,
+        "change_pct": 1.22,
         "price_observation_date": "2026-10-21"
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 52491.84,
-        "change_pct": -0.01,
+        "price": 52791.34,
+        "change_pct": 0.56,
         "price_observation_date": "2026-10-21"
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2781.99,
-        "change_pct": 0.31,
+        "price": 2788.31,
+        "change_pct": 0.54,
         "price_observation_date": "2026-10-21"
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 17.44,
-        "change_pct": 0.75,
+        "price": 16.62,
+        "change_pct": -3.99,
         "price_observation_date": "2026-10-21"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10757.51,
-        "change_pct": 0.23,
+        "price": 10752.88,
+        "change_pct": 0.19,
         "price_observation_date": "2026-10-21"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25644.83,
+        "price": 25645.04,
         "change_pct": 1.35,
         "price_observation_date": "2026-10-21"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 64621.24,
-        "change_pct": 0.85,
-        "price_observation_date": "2026-10-21"
+        "price": 64075.42,
+        "change_pct": -1.3,
+        "price_observation_date": "2026-10-20"
       }
     ],
     "count": 8,
