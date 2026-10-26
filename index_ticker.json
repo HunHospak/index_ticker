@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-25T22:44:11+00:00",
+  "generated_at": "2026-10-26T06:28:41+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -58,13 +58,13 @@
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 62693.16,
-        "change_pct": -0.34,
-        "price_observation_date": "2026-10-23"
+        "price": 62448.18,
+        "change_pct": -0.39,
+        "price_observation_date": "2026-10-26"
       }
     ],
     "count": 8,
-    "as_of": "2026-10-25",
+    "as_of": "2026-10-26",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
