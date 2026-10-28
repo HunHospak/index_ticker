@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T18:44:59+00:00",
+  "generated_at": "2026-10-28T22:54:09+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,36 +9,36 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 7748.29,
-        "change_pct": 0.33,
+        "price": 7743.98,
+        "change_pct": 0.28,
         "price_observation_date": "2026-10-28"
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 26544.31,
-        "change_pct": 0.25,
+        "price": 26549.85,
+        "change_pct": 0.27,
         "price_observation_date": "2026-10-28"
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 52522.66,
-        "change_pct": 0.28,
+        "price": 52475.1,
+        "change_pct": 0.19,
         "price_observation_date": "2026-10-28"
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2815.2,
-        "change_pct": -0.13,
+        "price": 2830.51,
+        "change_pct": 0.41,
         "price_observation_date": "2026-10-28"
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 17.25,
-        "change_pct": -1.54,
+        "price": 16.91,
+        "change_pct": -3.48,
         "price_observation_date": "2026-10-28"
       },
       {
