@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-10-30T02:01:46+00:00",
+  "generated_at": "2026-10-30T07:19:26+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -58,8 +58,8 @@
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 62889.3,
-        "change_pct": -2.74,
+        "price": 63290.11,
+        "change_pct": -2.12,
         "price_observation_date": "2026-10-30"
       }
     ],
