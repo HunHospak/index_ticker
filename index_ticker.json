@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-03T03:31:22+00:00",
+  "generated_at": "2026-11-03T08:02:44+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -16,7 +16,7 @@
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 25164.36,
+        "price": 25164.31,
         "change_pct": -1.07,
         "price_observation_date": "2026-11-02"
       },
