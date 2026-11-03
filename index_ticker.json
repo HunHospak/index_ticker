@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-03T08:02:44+00:00",
+  "generated_at": "2026-11-03T17:11:06+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,51 +9,51 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 7541.4,
-        "change_pct": -0.51,
-        "price_observation_date": "2026-11-02"
+        "price": 7579.06,
+        "change_pct": 0.5,
+        "price_observation_date": "2026-11-03"
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 25164.31,
-        "change_pct": -1.07,
-        "price_observation_date": "2026-11-02"
+        "price": 25420.23,
+        "change_pct": 1.02,
+        "price_observation_date": "2026-11-03"
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 51983.98,
-        "change_pct": 0.41,
-        "price_observation_date": "2026-11-02"
+        "price": 51755.78,
+        "change_pct": -0.44,
+        "price_observation_date": "2026-11-03"
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2805.88,
-        "change_pct": -0.21,
-        "price_observation_date": "2026-11-02"
+        "price": 2828.23,
+        "change_pct": 0.8,
+        "price_observation_date": "2026-11-03"
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 21.15,
-        "change_pct": 8.91,
-        "price_observation_date": "2026-11-02"
+        "price": 20.73,
+        "change_pct": -1.99,
+        "price_observation_date": "2026-11-03"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10761.3,
-        "change_pct": 0.29,
-        "price_observation_date": "2026-11-02"
+        "price": 10638.43,
+        "change_pct": -1.14,
+        "price_observation_date": "2026-11-03"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25981.09,
-        "change_pct": 0.63,
-        "price_observation_date": "2026-11-02"
+        "price": 25864.62,
+        "change_pct": -0.45,
+        "price_observation_date": "2026-11-03"
       },
       {
         "symbol": "^N225",
