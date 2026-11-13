@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-13T01:31:15+00:00",
+  "generated_at": "2026-11-13T02:43:04+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -44,22 +44,22 @@
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10835.5,
-        "change_pct": 0.78,
-        "price_observation_date": "2026-11-11"
+        "price": 10863.1,
+        "change_pct": 0.25,
+        "price_observation_date": "2026-11-12"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 26662.77,
-        "change_pct": 1.2,
-        "price_observation_date": "2026-11-11"
+        "price": 26771.88,
+        "change_pct": 0.41,
+        "price_observation_date": "2026-11-12"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 61716.42,
-        "change_pct": 0.76,
+        "price": 61745.8,
+        "change_pct": 1.52,
         "price_observation_date": "2026-11-13"
       }
     ],
