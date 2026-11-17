@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-16T22:49:23+00:00",
+  "generated_at": "2026-11-17T04:39:01+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -23,7 +23,7 @@
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 51608.17,
+        "price": 51608.2,
         "change_pct": -1.41,
         "price_observation_date": "2026-11-16"
       },
@@ -44,7 +44,7 @@
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10881.55,
+        "price": 10881.6,
         "change_pct": -0.19,
         "price_observation_date": "2026-11-16"
       },
@@ -58,13 +58,13 @@
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 61142.35,
-        "change_pct": 0.53,
-        "price_observation_date": "2026-11-13"
+        "price": 58868.61,
+        "change_pct": -1.33,
+        "price_observation_date": "2026-11-17"
       }
     ],
     "count": 8,
-    "as_of": "2026-11-16",
+    "as_of": "2026-11-17",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
