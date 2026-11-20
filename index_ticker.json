@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-20T08:42:37+00:00",
+  "generated_at": "2026-11-20T17:54:43+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,58 +9,58 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 7175.83,
-        "change_pct": -2.02,
-        "price_observation_date": "2026-11-19"
+        "price": 7013.58,
+        "change_pct": -2.26,
+        "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 23879.2,
-        "change_pct": -2.25,
-        "price_observation_date": "2026-11-19"
+        "price": 23002.11,
+        "change_pct": -3.67,
+        "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 49097.06,
-        "change_pct": -2.19,
-        "price_observation_date": "2026-11-19"
+        "price": 48726.7,
+        "change_pct": -0.75,
+        "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2655.11,
-        "change_pct": -2.18,
-        "price_observation_date": "2026-11-19"
+        "price": 2605.86,
+        "change_pct": -1.86,
+        "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 28.5,
-        "change_pct": 0.21,
+        "price": 32.15,
+        "change_pct": 13.05,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10412.58,
-        "change_pct": -0.38,
+        "price": 10346.34,
+        "change_pct": -1.02,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25142.64,
-        "change_pct": -1.26,
+        "price": 24802.78,
+        "change_pct": -2.6,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 56436.65,
-        "change_pct": -5.06,
-        "price_observation_date": "2026-11-20"
+        "price": 59444.21,
+        "change_pct": 0.71,
+        "price_observation_date": "2026-11-19"
       }
     ],
     "count": 8,
