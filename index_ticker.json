@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-20T20:59:22+00:00",
+  "generated_at": "2026-11-21T02:07:18+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,51 +9,51 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 6906.8,
-        "change_pct": -3.75,
+        "price": 6910.39,
+        "change_pct": -3.7,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 22622.49,
-        "change_pct": -5.26,
+        "price": 22617.73,
+        "change_pct": -5.28,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 48129.68,
-        "change_pct": -1.97,
+        "price": 48147.33,
+        "change_pct": -1.93,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2586.58,
-        "change_pct": -2.58,
+        "price": 2581.79,
+        "change_pct": -2.76,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 37.93,
-        "change_pct": 33.37,
+        "price": 35.89,
+        "change_pct": 26.2,
         "price_observation_date": "2026-11-20"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10346.34,
-        "change_pct": -1.02,
-        "price_observation_date": "2026-11-20"
+        "price": 10452.7,
+        "change_pct": -0.93,
+        "price_observation_date": "2026-11-19"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 24802.78,
-        "change_pct": -2.6,
-        "price_observation_date": "2026-11-20"
+        "price": 25463.81,
+        "change_pct": -1.06,
+        "price_observation_date": "2026-11-19"
       },
       {
         "symbol": "^N225",
@@ -64,7 +64,7 @@
       }
     ],
     "count": 8,
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "disclaimer": "Index levels from public market data, delayed. Informational only."
   }
 }
