@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-23T09:15:53+00:00",
+  "generated_at": "2026-11-23T21:33:58+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -9,50 +9,50 @@
       {
         "symbol": "^GSPC",
         "label": "S&P 500",
-        "price": 6910.39,
-        "change_pct": -3.7,
-        "price_observation_date": "2026-11-20"
+        "price": 7237.17,
+        "change_pct": 4.73,
+        "price_observation_date": "2026-11-23"
       },
       {
         "symbol": "^IXIC",
         "label": "Nasdaq",
-        "price": 22617.73,
-        "change_pct": -5.28,
-        "price_observation_date": "2026-11-20"
+        "price": 24089.56,
+        "change_pct": 6.51,
+        "price_observation_date": "2026-11-23"
       },
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 48147.33,
-        "change_pct": -1.93,
-        "price_observation_date": "2026-11-20"
+        "price": 49595.31,
+        "change_pct": 3.01,
+        "price_observation_date": "2026-11-23"
       },
       {
         "symbol": "^RUT",
         "label": "Russell 2000",
-        "price": 2581.79,
-        "change_pct": -2.76,
-        "price_observation_date": "2026-11-20"
+        "price": 2669.66,
+        "change_pct": 3.4,
+        "price_observation_date": "2026-11-23"
       },
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 30.62,
-        "change_pct": -14.68,
+        "price": 26.62,
+        "change_pct": -25.83,
         "price_observation_date": "2026-11-23"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10406.28,
-        "change_pct": 0.58,
+        "price": 10480.82,
+        "change_pct": 1.3,
         "price_observation_date": "2026-11-23"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 25006.31,
-        "change_pct": 0.82,
+        "price": 25337.27,
+        "change_pct": 2.15,
         "price_observation_date": "2026-11-23"
       },
       {
