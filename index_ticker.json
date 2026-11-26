@@ -1,7 +1,7 @@
 {
   "service": "index_ticker",
   "schema_version": "1.0",
-  "generated_at": "2026-11-26T04:13:28+00:00",
+  "generated_at": "2026-11-26T09:41:19+00:00",
   "status": "active",
   "ttl_hours": 6,
   "data": {
@@ -23,7 +23,7 @@
       {
         "symbol": "^DJI",
         "label": "Dow",
-        "price": 50182.9,
+        "price": 50182.95,
         "change_pct": 0.33,
         "price_observation_date": "2026-11-25"
       },
@@ -37,29 +37,29 @@
       {
         "symbol": "^VIX",
         "label": "VIX",
-        "price": 28.29,
-        "change_pct": 7.32,
-        "price_observation_date": "2026-11-25"
+        "price": 27.19,
+        "change_pct": -3.89,
+        "price_observation_date": "2026-11-26"
       },
       {
         "symbol": "^FTSE",
         "label": "FTSE 100",
-        "price": 10426.9,
-        "change_pct": -0.38,
-        "price_observation_date": "2026-11-25"
+        "price": 10576.77,
+        "change_pct": 1.44,
+        "price_observation_date": "2026-11-26"
       },
       {
         "symbol": "^GDAXI",
         "label": "DAX",
-        "price": 24702.13,
-        "change_pct": -1.26,
-        "price_observation_date": "2026-11-25"
+        "price": 25197.19,
+        "change_pct": 2.0,
+        "price_observation_date": "2026-11-26"
       },
       {
         "symbol": "^N225",
         "label": "Nikkei 225",
-        "price": 57725.49,
-        "change_pct": 1.25,
+        "price": 57499.16,
+        "change_pct": 0.86,
         "price_observation_date": "2026-11-26"
       }
     ],
